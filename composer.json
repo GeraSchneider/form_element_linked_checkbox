@@ -1,5 +1,5 @@
 {
-    "name": "tritum/form-element-linked-checkbox",
+    "name": "geraschneider/form-element-linked-checkbox",
     "description": "",
     "type": "typo3-cms-extension",
     "require": {
