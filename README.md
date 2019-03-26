@@ -1,5 +1,9 @@
 # Custom form element "Linked checkbox"
 
+Is only here for usage until the original will be updated / until it's not necessary anymore.
+
+
+
 This TYPO3 extension adds a custom form element "Linked checkbox" to the
 TYPO3 form framework. The user is able to define the link target and the
 link text.
