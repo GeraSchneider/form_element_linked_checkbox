@@ -8,7 +8,7 @@
     },
     "replace": {
         "form_element_linked_checkbox": "self.version",
-        "tritum/form_element_linked_checkbox": "self.version"
+        "geraschneider/form_element_linked_checkbox": "self.version"
     },
     "license": "GPL-2.0+",
     "authors": [
